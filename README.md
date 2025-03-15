@@ -1,6 +1,6 @@
 # ToolSSHed
 Toolkit for SSH pentesting(Check version, bruteforce and password spraying)
-### This tool was developed for use strictly in educational labs and/or authorized ambients, unauthorized or illegar use is NOT promoted or encouraged.
+### This tool was developed for use strictly in educational labs and/or authorized ambients, unauthorized or illegal use is NOT promoted or encouraged.
 
 ## Usage
   -h, --help                         Show this help message and exit
