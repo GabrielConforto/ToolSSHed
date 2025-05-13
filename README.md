@@ -12,13 +12,13 @@ Libraries used:
 ## Usage
   -h, --help                         Show this help message and exit
   
-  -i IP, --ip IP                     Target machine IP
+  -i, --ip                           Target machine IP
   
-  -u USERNAME, --username USERNAME   Username for bruteforcing
+  -u, --username                     Username for bruteforcing
   
-  -p PASSWORD, --password PASSWORD   Password for password spraying   
+  -p, --password                     Password for password spraying   
   
-  -w WORDLIST, --wordlist WORDLIST   Wordlist file               
+  -w, --wordlist                     Wordlist file               
   
   -V, --check_version                Check SSH version
   
